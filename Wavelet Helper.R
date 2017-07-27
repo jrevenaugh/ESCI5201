@@ -11,7 +11,7 @@ numeric <- function( x ) as.numeric( x )
 
 morletT <- function( x, y = seq_along( x ) )
 {
-    mt <- morlet( x, y )
+    mt <- dplR::morlet( x, y )
     morplot( mt )
 }
 
