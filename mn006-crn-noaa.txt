@@ -1,0 +1,381 @@
+# Conrad - Osprey Island - PIRE - ITRDB MN006
+#----------------------------------------------------
+#                World Data Service for Paleoclimatology, Boulder
+#                                  and
+#                     NOAA Paleoclimatology Program
+#             National Centers for Environmental Information (NCEI)
+#----------------------------------------------------
+# Template Version 4.0
+# Encoding: UTF-8
+# NOTE: Please cite original publication, NOAA Landing Page URL, dataset and publication DOIs (where available), and date accessed when using downloaded data. If there is no publication information, please cite investigator, study title, NOAA Landing Page URL, and date accessed.
+#
+# Description/Documentation lines begin with #
+# Data lines have no #
+#
+# NOAA_Landing_Page: https://www.ncei.noaa.gov/access/paleo-search/study/2952
+#   Landing_Page_Description: NOAA Landing Page of this file's parent study, which includes all study metadata.
+#
+# Study_Level_JSON_Metadata: https://www.ncei.noaa.gov/pub/data/metadata/published/paleo/json/noaa-tree-2952.json
+#   Study_Level_JSON_Description: JSON metadata of this data file's parent study, which includes all study metadata.
+#
+# Data_Type: Tree Ring
+#
+# Dataset_DOI:
+#
+# Science_Keywords: 
+#--------------------
+# Resource_Links
+#
+# Data_Download_Resource: https://www.ncei.noaa.gov/pub/data/paleo/treering/measurements/northamerica/usa/mn006-crn-noaa.txt
+#   Data_Download_Description: Raw Measurements - NOAA Template File; mn006-crn-noaa.txt
+#
+# Related_Online_Resource: https://www.ncei.noaa.gov/pub/data/paleo/treering/chronologies/northamerica/usa/mn006.crn
+#   Related_Online_Description: CRN File; Chronology - Tucson Decadal File
+#
+#--------------------
+# Contribution_Date
+#   Date: 2002-04-26
+#--------------------
+# File_Last_Modified_Date
+#   Date: 2002-04-26
+#--------------------
+# Title
+#   Study_Name: Conrad - Osprey Island - PIRE - ITRDB MN006
+#--------------------
+# Investigators
+#   Investigators: Conrad, L.; Swain Henselman, A.M.; Fritts, H.C.
+#--------------------
+# Description_Notes_and_Keywords
+#   Description: NOAA Template Chronology file added 2018-12-20. NOAA Template Raw Measurements file added 2019-02-08.
+#--------------------
+# Publication
+#   Authors: 
+#   Journal_Name: 
+#   Published_Title: 
+#   Published_Date_or_Year: 
+#   Volume: 
+#   Pages: 
+#   Issue: 
+#   Report_Number: 
+#   DOI: 
+#   Full_Citation: 
+#   Abstract: 
+#--------------------
+# Funding_Agency
+#   Funding_Agency_Name:
+#   Grant:
+#--------------------
+# Site_Information
+#   Site_Name: Osprey Island
+#   Location: Minnesota
+#   Northernmost_Latitude: 48.22
+#   Southernmost_Latitude: 48.22
+#   Easternmost_Longitude: -90.9
+#   Westernmost_Longitude: -90.9
+#   Elevation_m: 442
+#--------------------
+# Data_Collection
+#   Collection_Name: MN006
+#   First_Year: 1697
+#   Last_Year: 1972
+#   Time_Unit: CE
+#   Core_Length_m:
+#   Parameter_Keywords:  ring width
+#   Notes: None
+#--------------------
+# Species
+#   Species_Name: Pinus resinosa Aiton
+#   Common_Name: red pine
+#   Tree_Species_Code: PIRE
+#--------------------
+# Variables
+#
+# PaST_Thesaurus_Download_Resource: https://www.ncei.noaa.gov/access/paleo-search/skos/past-thesaurus.rdf
+#   PaST_Thesaurus_Download_Description: Paleoenvironmental Standard Terms (PaST) Thesaurus terms, definitions, and relationships in SKOS format.
+#
+# Data variables follow that are preceded by '##' in columns one and two.
+# Variables format: shortname-tab-var components: what, material, error, units, seasonality, data type, detail, method, C or N for Character or Numeric data)
+#
+## age_CE	age,,,year Common Era,,tree ring,,,N,
+## trsgi	tree ring standardized growth index,,,,,tree ring,composited,standard chronology method,N,
+## numsamp	number of samples,,,count,,tree ring,,,N,
+#---------------------
+# Data:
+# Missing_Values: NA
+age_CE	trsgi	numsamp
+1697	0.716	1
+1698	1.002	1
+1699	0.939	2
+1700	1.043	2
+1701	1.154	3
+1702	1.33	3
+1703	1.302	3
+1704	1.157	4
+1705	1.195	6
+1706	1.004	7
+1707	1.076	7
+1708	1.177	7
+1709	0.997	8
+1710	1.144	8
+1711	1.344	8
+1712	1.208	8
+1713	1.302	8
+1714	1.185	8
+1715	1.265	9
+1716	1.218	9
+1717	0.918	10
+1718	0.959	10
+1719	0.951	10
+1720	1.129	10
+1721	0.811	11
+1722	0.937	11
+1723	1.194	13
+1724	0.855	13
+1725	0.981	13
+1726	0.995	13
+1727	1.063	13
+1728	1.181	13
+1729	1.384	14
+1730	1.147	14
+1731	0.986	14
+1732	1.11	14
+1733	1.001	14
+1734	1.054	14
+1735	0.931	14
+1736	0.419	14
+1737	0.786	14
+1738	0.798	14
+1739	0.478	14
+1740	0.843	14
+1741	0.53	14
+1742	0.414	14
+1743	0.458	14
+1744	0.593	14
+1745	0.707	14
+1746	0.874	14
+1747	0.994	14
+1748	1.007	14
+1749	1.005	14
+1750	1.122	14
+1751	0.774	14
+1752	0.873	14
+1753	0.831	14
+1754	0.945	14
+1755	0.695	14
+1756	0.779	14
+1757	0.65	14
+1758	0.723	14
+1759	0.737	14
+1760	0.602	14
+1761	0.663	14
+1762	0.977	14
+1763	1.042	14
+1764	0.829	14
+1765	1.243	14
+1766	1.085	14
+1767	1.26	14
+1768	1.026	14
+1769	0.999	14
+1770	1	14
+1771	0.983	14
+1772	1.015	14
+1773	0.925	14
+1774	0.895	14
+1775	0.911	14
+1776	0.68	14
+1777	1	14
+1778	1.502	14
+1779	1.543	14
+1780	0.827	14
+1781	1.052	14
+1782	0.951	14
+1783	1.085	14
+1784	1.163	14
+1785	0.988	14
+1786	0.864	14
+1787	1.272	14
+1788	1.014	14
+1789	1.081	14
+1790	1.146	14
+1791	0.817	14
+1792	0.86	14
+1793	1.053	14
+1794	0.9	14
+1795	1.065	14
+1796	0.976	14
+1797	0.85	14
+1798	0.768	14
+1799	0.844	14
+1800	1.028	14
+1801	1.292	14
+1802	1.625	14
+1803	1.473	14
+1804	0.566	14
+1805	1.245	14
+1806	1.06	14
+1807	1.201	14
+1808	1.117	14
+1809	1.011	14
+1810	1.142	14
+1811	1.24	14
+1812	1.088	14
+1813	1.297	14
+1814	1.79	14
+1815	1.908	14
+1816	1.432	14
+1817	1.418	14
+1818	1.037	14
+1819	1.602	14
+1820	1.653	14
+1821	0.939	14
+1822	1.492	14
+1823	1.24	14
+1824	1.25	14
+1825	1.538	14
+1826	1.691	14
+1827	1.953	14
+1828	2.084	14
+1829	1.154	14
+1830	1.427	14
+1831	0.94	14
+1832	1.06	14
+1833	1.1	14
+1834	1.353	14
+1835	0.977	14
+1836	1.15	14
+1837	0.84	14
+1838	0.957	14
+1839	0.774	14
+1840	0.563	14
+1841	0.976	14
+1842	1.178	14
+1843	1.158	14
+1844	1.18	14
+1845	1.091	14
+1846	0.661	14
+1847	1.172	14
+1848	1.349	14
+1849	1.201	14
+1850	1.106	14
+1851	1.181	14
+1852	0.939	14
+1853	0.437	14
+1854	0.881	14
+1855	0.596	14
+1856	0.879	14
+1857	0.787	14
+1858	0.862	14
+1859	0.881	14
+1860	0.656	14
+1861	0.915	14
+1862	0.624	14
+1863	0.472	14
+1864	0.328	14
+1865	0.699	14
+1866	0.5	14
+1867	0.839	14
+1868	0.816	14
+1869	0.728	14
+1870	0.777	14
+1871	0.612	14
+1872	0.936	14
+1873	1.031	14
+1874	0.686	14
+1875	0.66	14
+1876	0.816	14
+1877	1.086	14
+1878	0.961	14
+1879	0.75	14
+1880	0.834	14
+1881	0.984	14
+1882	0.631	14
+1883	0.733	14
+1884	0.722	14
+1885	0.908	14
+1886	0.561	14
+1887	0.74	14
+1888	0.875	14
+1889	0.764	14
+1890	0.599	14
+1891	0.66	14
+1892	0.895	14
+1893	0.633	14
+1894	0.915	14
+1895	1.175	14
+1896	1.166	14
+1897	1.046	14
+1898	1.17	14
+1899	1.269	14
+1900	0.517	14
+1901	1.287	14
+1902	1.025	14
+1903	0.904	14
+1904	1.048	14
+1905	1.231	14
+1906	0.856	14
+1907	0.886	14
+1908	1.264	14
+1909	0.763	14
+1910	0.237	14
+1911	0.764	14
+1912	0.917	14
+1913	0.745	14
+1914	0.748	14
+1915	1.167	14
+1916	0.991	14
+1917	1.007	14
+1918	1.005	14
+1919	0.764	14
+1920	1.198	14
+1921	0.749	14
+1922	0.883	14
+1923	0.842	14
+1924	0.557	14
+1925	1.169	14
+1926	1.18	14
+1927	1.145	14
+1928	1.146	14
+1929	1.088	14
+1930	1.259	14
+1931	0.79	14
+1932	1.096	14
+1933	1.199	14
+1934	0.967	14
+1935	1.144	14
+1936	0.845	14
+1937	0.866	14
+1938	1.054	14
+1939	1.087	14
+1940	0.993	14
+1941	0.889	14
+1942	1.255	14
+1943	1.176	14
+1944	1.28	14
+1945	1.262	14
+1946	1.172	14
+1947	1.391	14
+1948	0.956	14
+1949	1.112	14
+1950	1.201	14
+1951	1.276	14
+1952	1.028	14
+1953	1.213	14
+1954	1.035	14
+1955	0.875	14
+1956	1.04	14
+1957	0.911	14
+1958	0.743	14
+1959	0.617	14
+1960	0.836	14
+1961	0.778	14
+1962	1.027	14
+1963	1.12	14
+1964	0.946	14
+1965	1.331	14
+1966	1.108	14
+1967	1.214	14
+1968	1.234	14
+1969	1.175	14
+1970	0.998	14
+1971	1.094	14
+1972	1.072	14
